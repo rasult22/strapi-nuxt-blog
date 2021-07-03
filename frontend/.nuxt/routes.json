@@ -1,0 +1,23 @@
+[
+  {
+    "name": "articles-slug",
+    "path": "/articles/:slug?",
+    "component": "C:\\\\Users\\\\Itachi\\\\Desktop\\\\blog\\\\frontend\\\\pages\\\\articles\\\\_slug.vue",
+    "chunkName": "pages/articles/_slug",
+    "_name": "_50ed9730"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug?",
+    "component": "C:\\\\Users\\\\Itachi\\\\Desktop\\\\blog\\\\frontend\\\\pages\\\\categories\\\\_slug.vue",
+    "chunkName": "pages/categories/_slug",
+    "_name": "_205b9b2e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Itachi\\\\Desktop\\\\blog\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7f7a1b4d"
+  }
+]
